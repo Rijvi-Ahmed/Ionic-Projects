@@ -1,0 +1,7 @@
+{
+  "name": "loc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
